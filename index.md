@@ -113,12 +113,13 @@ When you use our services, you’re trusting us with your information. We unders
 
 All functions of this test (including input, processing, and output) are run on the front end and will not be sent back to the server for storage and/or analysis and/or any related operations. Although this page is hosted on a Github server in California, none of your test data will interact with that server in any way. So even we as web developers don’t know your test results.
 
-### Here is an unordered list:
+### We are from:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   [HKBU](https://www.hkbu.edu.hk/zh_hk.html)
+*   [CQMU](https://www.cqmu.edu.cn/)
+*   [BNU-HKBU UIC](https://www.uic.edu.cn/en)
+*   [CUMT(Beijing)](https://www.cumtb.edu.cn)
+*   [XJTLU](https://www.xjtlu.edu.cn/en)
 
 ### And an ordered list:
 
