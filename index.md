@@ -2,25 +2,22 @@
 layout: default
 ---
 
+This project has collaborators from **[CQMU](https://www.cqmu.edu.cn/)**, **[HKBU]([https://](https://www.hkbu.edu.hk/zh_hk.html)**, **[BNU-HKBU UIC](https://www.uic.edu.cn/en)** and **[XJTLU](https://www.xjtlu.edu.cn/en)**.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# 項目簡介
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## 標題1
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### 標題2
 
 ```js
 // Javascript code with syntax highlighting.
@@ -105,19 +102,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>TurboHK</dd>
+<dt>Location</dt>
+<dd>Hong Kong</dd>
 </dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
 ```
