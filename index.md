@@ -58,7 +58,9 @@ end
 # 測試
 [按此進入測試](/test/index.html)
 
-## 使用規定
+* * *
+
+## 使用規定 Terms of Use
 **Only available in English. If there are translations in other languages, the English version shall prevail in the event of any ambiguity.**
 
 **此規約只提供英文版本。若有其他語言的譯本，在產生歧義時一律以此英文版本為準。**
@@ -101,23 +103,15 @@ We reserve the right to deny in its sole discretion any user access to this Site
 
 No waiver by us of any provision of these Terms and Conditions shall be binding except as set forth in writing and signed by its duly authorized representative.
 
+## 私隱權政策 Privacy Policy
 
-此測試之所有功能（包括輸入、處理、輸出）均在前端運行，均不會回傳至伺服器進行存儲和/或分析和/或任何相關操作。雖然該網頁寄存於加利福尼亞州 Github 的伺服器上，但您所有的測試數據均不會與該伺服器有任何形式的交互。
+**Only available in English. If there are translations in other languages, the English version shall prevail in the event of any ambiguity.**
 
+**此規約只提供英文版本。若有其他語言的譯本，在產生歧義時一律以此英文版本為準。**
 
+When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
-
-
-
-
-
-
-
-
-
-### There's a horizontal rule below this.
-
-* * *
+All functions of this test (including input, processing, and output) are run on the front end and will not be sent back to the server for storage and/or analysis and/or any related operations. Although this page is hosted on a Github server in California, none of your test data will interact with that server in any way. So even we as web developers don’t know your test results.
 
 ### Here is an unordered list:
 
