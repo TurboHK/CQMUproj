@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This project has collaborators from **[CQMU](https://www.cqmu.edu.cn/)**, **[HKBU]([https://](https://www.hkbu.edu.hk/zh_hk.html)**, **[BNU-HKBU UIC](https://www.uic.edu.cn/en)** and **[XJTLU](https://www.xjtlu.edu.cn/en)**.
+This project has collaborators from **[CQMU](https://www.cqmu.edu.cn/)**, **[HKBU]([https://www.hkbu.edu.hk/zh_hk.html)**, **[BNU-HKBU UIC](https://www.uic.edu.cn/en)**,**[CUMT(Beijing)](https://www.cumtb.edu.cn)** and **[XJTLU](https://www.xjtlu.edu.cn/en)**.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
