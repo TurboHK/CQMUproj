@@ -60,7 +60,7 @@ end
 
 * * *
 
-## 使用規定 Terms of Use
+## Terms of Use 使用規定
 **Only available in English. If there are translations in other languages, the English version shall prevail in the event of any ambiguity.**
 
 **此規約只提供英文版本。若有其他語言的譯本，在產生歧義時一律以此英文版本為準。**
@@ -103,7 +103,7 @@ We reserve the right to deny in its sole discretion any user access to this Site
 
 No waiver by us of any provision of these Terms and Conditions shall be binding except as set forth in writing and signed by its duly authorized representative.
 
-## 私隱權政策 Privacy Policy
+## Privacy Policy 私隱權政策
 
 **Only available in English. If there are translations in other languages, the English version shall prevail in the event of any ambiguity.**
 
