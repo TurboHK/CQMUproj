@@ -86,7 +86,7 @@ As a condition of use of this Site, the User agrees to indemnify us and its affi
 This Site may contain links and references to third-party websites. The linked sites are not under the control of us, and us is not responsible for the content of any linked site or any link contained in a linked site. us provides these links only as a convenience, and the inclusion of a link or reference does not imply the endorsement of the linked site by us.
 
 If this Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, “Forums”), the User agrees to use the Forums only to send and receive messages and materials that are proper and related to the particular Forum. By way of example and not as a limitation, the User agrees that when using a Forum, he or she shall not do any of the following:
-\
+
 *   **(a)** Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
 *   **(b)** Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
 *   **(c)** Upload or attach files that contain software or other material protected by intellectual property laws (or by rights of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents therefor as may be required by law;
