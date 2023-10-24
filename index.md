@@ -55,6 +55,10 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+# 進入測試
+[按此進入測試](/test/index.html)
+
+
 ### There's a horizontal rule below this.
 
 * * *
