@@ -67,11 +67,11 @@ end
 
 The use of this website constitutes an agreement with the following terms and conditions:
 
-**(a)** We maintain this website (the “Site”) as a courtesy to those who may choose to access the Site (“Users”). The information presented herein is for informative purposes only. We grant permission to Users to visit the Site and to download and copy the information, documents, and materials (collectively, “Materials”) from the Site for the User’s personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site.
+*   **(a)** We maintain this website (the “Site”) as a courtesy to those who may choose to access the Site (“Users”). The information presented herein is for informative purposes only. We grant permission to Users to visit the Site and to download and copy the information, documents, and materials (collectively, “Materials”) from the Site for the User’s personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site.
 
-**(b)** We administer this Site. All Material on this Site from us appears subject to the present Terms and Conditions.
+*   **(b)** We administer this Site. All Material on this Site from us appears subject to the present Terms and Conditions.
 
-**(c)** Unless expressly stated otherwise, the findings, interpretations, and conclusions expressed in the Materials on this Site are those of the various staff members, consultants, advisers, and the original publishers to this site who prepared the work and do not necessarily represent the views of ours.
+*   **(c)** Unless expressly stated otherwise, the findings, interpretations, and conclusions expressed in the Materials on this Site are those of the various staff members, consultants, advisers, and the original publishers to this site who prepared the work and do not necessarily represent the views of ours.
 
 ### Disclaimers
 
@@ -87,13 +87,13 @@ This Site may contain links and references to third-party websites. The linked s
 
 If this Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, “Forums”), the User agrees to use the Forums only to send and receive messages and materials that are proper and related to the particular Forum. By way of example and not as a limitation, the User agrees that when using a Forum, he or she shall not do any of the following:
 \
-**(a)** Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
-**(b)** Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
-**(c)** Upload or attach files that contain software or other material protected by intellectual property laws (or by rights of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents therefor as may be required by law;
-**(d)** Upload or attach files that contain viruses, corrupted files or any other similar software or programs that may damage the operation of another’s computer;
-**(e)** Delete any author attributions, legal notices or proprietary designations or labels in any file that is uploaded;
-**(f)** Falsify the origin or source of software or other material contained in a file that is uploaded;
-**(g)** Advertise or offer to sell any goods or services, or conduct or forward surveys, contests or chain letters, or download any file posted by another user of a Forum that the User knows, or reasonably should know, cannot be legally distributed in such manner.
+*   **(a)** Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+*   **(b)** Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
+*   **(c)** Upload or attach files that contain software or other material protected by intellectual property laws (or by rights of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents therefor as may be required by law;
+*   **(d)** Upload or attach files that contain viruses, corrupted files or any other similar software or programs that may damage the operation of another’s computer;
+*   **(e)** Delete any author attributions, legal notices or proprietary designations or labels in any file that is uploaded;
+*   **(f)** Falsify the origin or source of software or other material contained in a file that is uploaded;
+*   **(g)** Advertise or offer to sell any goods or services, or conduct or forward surveys, contests or chain letters, or download any file posted by another user of a Forum that the User knows, or reasonably should know, cannot be legally distributed in such manner.
 
 ### General
 
