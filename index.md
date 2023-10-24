@@ -55,8 +55,64 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-# 進入測試
+# 測試
 [按此進入測試](/test/index.html)
+
+## 使用規定
+**Only available in English. If there are translations in other languages, the English version shall prevail in the event of any ambiguity.**
+
+**此規約只提供英文版本。若有其他語言的譯本，在產生歧義時一律以此英文版本為準。**
+
+The use of this website constitutes an agreement with the following terms and conditions:
+
+**(a)** We maintain this website (the “Site”) as a courtesy to those who may choose to access the Site (“Users”). The information presented herein is for informative purposes only. We grant permission to Users to visit the Site and to download and copy the information, documents, and materials (collectively, “Materials”) from the Site for the User’s personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site.
+
+**(b)** We administer this Site. All Material on this Site from us appears subject to the present Terms and Conditions.
+
+**(c)** Unless expressly stated otherwise, the findings, interpretations, and conclusions expressed in the Materials on this Site are those of the various staff members, consultants, advisers, and the original publishers to this site who prepared the work and do not necessarily represent the views of ours.
+
+### Disclaimers
+
+Materials provided on this Site are provided “as is”, without warranty of any kind, either express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose and non-infringement. us specifically does not make any warranties or representations as to the accuracy or completeness of any such Materials. us periodically adds, changes, improves or updates the Materials on this Site without notice. Under no circumstances shall us be liable for any loss, damage, liability or expense incurred or suffered that is claimed to have resulted from the use of this Site, including, without limitation, any fault, error, omission, interruption or delay with respect thereto. The use of this Site is at the User’s sole risk. Under no circumstances, including but not limited to negligence, shall us or its affiliates be liable for any direct, indirect, incidental, special or consequential damages, even if us has been advised of the possibility of such damages.
+
+The User specifically acknowledges and agrees that us is not liable for any conduct of any User.
+
+This site may contain advice, opinions and statements of various information providers. us does not represent or endorse the accuracy or reliability of any advice, opinion, statement or other information provided by any information provider, any User of this Site or any other person or entity. Reliance upon any such advice, opinion, statement, or other information shall also be at the User’s own risk. Neither us nor its affiliates, nor any of their respective agents, employees, information providers or content providers, shall be liable to any User or anyone else for any inaccuracy, error, omission, interruption, deletion, defect, alteration of or use of any content herein, or for its timeliness or completeness, nor shall they be liable for any failure of performance, computer virus or communication line failure, regardless of cause, or for any damages resulting therefrom.
+
+As a condition of use of this Site, the User agrees to indemnify us and its affiliates from and against any and all actions, claims, losses, damages, liabilities and expenses (including reasonable attorneys’ fees) arising out of the User’s use of this Site, including, without limitation, any claims alleging facts that if true would constitute a breach by the User of these Terms and Conditions. If the User is dissatisfied with any Material on this Site or with any of its Terms and Conditions of Use, the User’s sole and exclusive remedy is to discontinue using the Site.
+
+This Site may contain links and references to third-party websites. The linked sites are not under the control of us, and us is not responsible for the content of any linked site or any link contained in a linked site. us provides these links only as a convenience, and the inclusion of a link or reference does not imply the endorsement of the linked site by us.
+
+If this Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, “Forums”), the User agrees to use the Forums only to send and receive messages and materials that are proper and related to the particular Forum. By way of example and not as a limitation, the User agrees that when using a Forum, he or she shall not do any of the following:
+\
+**(a)** Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+**(b)** Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
+**(c)** Upload or attach files that contain software or other material protected by intellectual property laws (or by rights of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents therefor as may be required by law;
+**(d)** Upload or attach files that contain viruses, corrupted files or any other similar software or programs that may damage the operation of another’s computer;
+**(e)** Delete any author attributions, legal notices or proprietary designations or labels in any file that is uploaded;
+**(f)** Falsify the origin or source of software or other material contained in a file that is uploaded;
+**(g)** Advertise or offer to sell any goods or services, or conduct or forward surveys, contests or chain letters, or download any file posted by another user of a Forum that the User knows, or reasonably should know, cannot be legally distributed in such manner.
+
+### General
+
+us reserves its exclusive right in its sole discretion to alter, limit or discontinue the Site or any Materials in any respect. We shall have no obligation to take the needs of any User into consideration in connection therewith.
+
+We reserve the right to deny in its sole discretion any user access to this Site or any portion thereof without notice.
+
+No waiver by us of any provision of these Terms and Conditions shall be binding except as set forth in writing and signed by its duly authorized representative.
+
+
+此測試之所有功能（包括輸入、處理、輸出）均在前端運行，均不會回傳至伺服器進行存儲和/或分析和/或任何相關操作。雖然該網頁寄存於加利福尼亞州 Github 的伺服器上，但您所有的測試數據均不會與該伺服器有任何形式的交互。
+
+
+
+
+
+
+
+
+
+
 
 
 ### There's a horizontal rule below this.
